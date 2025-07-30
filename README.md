@@ -1,2 +1,2 @@
 # Core-Java
-In this repo I will be stroring my Core Java Material.
+In this repo I will be storing my Core Java Material.
